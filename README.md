@@ -6,9 +6,11 @@
 
 Learning about new things that pique my curiosity, and exposing myself to intriguing challenges are the two pursuits that I have always been passionate about. 
 
-🏬 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in).
-🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Learning**.
-🐣 Beside's Hacking stuff, I like meditation, music, and fitness.
+🏬 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in)
+
+🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Learning**
+
+🐣 Beside's Hacking stuff, I like meditation, music, and fitness
 
 I'm currently persuing my studies in Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in). 
 
