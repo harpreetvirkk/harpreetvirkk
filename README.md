@@ -4,9 +4,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk_asp21@ashoka.edu.in)
 [![Linkedin Badge](https://img.shields.io/badge/-harpreetsinghvirk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreetsinghvirk/)](https://www.linkedin.com/in/harpreetsinghvirk/)
 
-Learning about new things that pique my curiosity, and exposing myself to intriguing challenges are the two pursuits that I have always been passionate about. I'm currently persuing my studies in Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in). 
+Learning about new things that pique my curiosity, and exposing myself to intriguing challenges are the two pursuits that I have always been passionate about. 
 
-Present Research Work includes **Secure & Privacy-Preserving Decentralised Federated Learning**, and **Natural Language Processing**. Past research & work experience vis-à-vis Computer Vision, Recommendation Systems, Blockchain, & Full Stack Web Development. Previous employers include [The Career Labs](https://thecareerlabs.com/in), & [Mylan India Pharmaceuticals](https://www.mylan.in/).
+🏬 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in).
+🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Learning**.
+🐣 Beside's Hacking stuff, I like meditation, music, and fitness.
+
+I'm currently persuing my studies in Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in). 
+
+ Present research work includes **Secure & Privacy-Preserving Decentralised Federated Learning**, and **Natural Language Processing**. Past research & work experience vis-à-vis Computer Vision, Recommendation Systems, Blockchain, & Full Stack Web Development. Previous employers include [The Career Labs](https://thecareerlabs.com/in), & [Mylan India Pharmaceuticals](https://www.mylan.in/).
 
 ![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
 
