@@ -4,8 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk_asp21@ashoka.edu.in)
 [![Linkedin Badge](https://img.shields.io/badge/-harpreetsinghvirk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreetsinghvirk/)](https://www.linkedin.com/in/harpreetsinghvirk/)
 
-![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
-
 🎓 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in)
 
 🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Learning**
@@ -53,3 +51,5 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreetvirkk&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
