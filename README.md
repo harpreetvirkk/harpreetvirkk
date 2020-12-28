@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk_asp21@ashoka.edu.in)
 [![Linkedin Badge](https://img.shields.io/badge/-harpreetsinghvirk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreetsinghvirk/)](https://www.linkedin.com/in/harpreetsinghvirk/)
 
+![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
+
 🎓 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in)
 
 🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Learning**
@@ -11,8 +13,6 @@
 🏬 Past research & work experience vis-à-vis Computer Vision, Recommendation Systems, Blockchain, & Full Stack Web Development. Previous employers include [The Career Labs](https://thecareerlabs.com/in), & [Mylan India Pharmaceuticals](https://www.mylan.in/). (open for hiring)
 
 🐣 Beside's Hacking stuff, I like meditation, music, and fitness
-
-![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
 
 #### Things I code with:
 
