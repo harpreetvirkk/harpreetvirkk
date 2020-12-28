@@ -1,9 +1,14 @@
-### Hey, nice to see you! I'm Harpreet 👋🏼
+### Hello! I'm Harpreet 👋🏼
+
+[![Resume Badge](https://img.shields.io/badge/-Resume-FFB71B?style=flat-square&logo=docusign&logoColor=white&link=https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)](https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk_asp21@ashoka.edu.in)
+[![Linkedin Badge](https://img.shields.io/badge/-harpreetsinghvirk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreetsinghvirk/)](https://www.linkedin.com/in/harpreetsinghvirk/)
 
 Learning about new things that pique my curiosity, and exposing myself to intriguing challenges are the two pursuits that I have always been passionate about. I'm currently persuing my studies in Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in). 
 
 Presently researching on **Secure & Privacy-Preserving Decentralised Federated Learning**, and **Natural Language Processing**. Past research & work experience vis-à-vis Computer Vision, Recommendation Systems, Blockchain, & Full Stack Web Development. Previous employers include [The Career Labs](https://thecareerlabs.com/in), & [Mylan India Pharmaceuticals](https://www.mylan.in/).
 
+![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
 
 #### Things I code with:
 
@@ -36,12 +41,11 @@ Presently researching on **Secure & Privacy-Preserving Decentralised Federated L
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 ![MSOffice](https://img.shields.io/badge/-MSOffice-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
 
-[Email](mailto:harpreet.virk_asp21@ashoka.edu.in)
-
-[Resume](https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)
-
-[LinkedIn](https://www.linkedin.com/in/harpreetsinghvirk/)
-
-![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
-
-[![Harpreet Virk's Github stats](https://github-readme-stats.vercel.app/api?username=harpreetvirkk)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=harpreetvirkk&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreetvirkk&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
