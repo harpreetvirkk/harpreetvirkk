@@ -5,6 +5,7 @@ Learning about new things that pique my curiosity, and exposing myself to intrig
 Research & Work Experience vis-à-vis Deep Learning, Natural Language Processing, Blockchain, & Full Stack Web Development. Previous Employers Include The Career Labs, & Mylan India Pharmaceuticals.
 
 [LinkedIn](https://www.linkedin.com/in/harpreetsinghvirk/)
+
 [Email](mailto:harpreet.virk_asp21@ashoka.edu.in)
 
 [![Harpreet Virk's Github stats](https://github-readme-stats.vercel.app/api?username=harpreetvirkk)](https://github.com/anuraghazra/github-readme-stats)
