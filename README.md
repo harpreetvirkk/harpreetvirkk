@@ -52,4 +52,8 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=yharpreetvirkk)
+<p align=center>
+  <a href="https://komarev.com/ghpvc/?username=yharpreetvirkk" title="Go to Source">
+    <img align="center" src="https://komarev.com/ghpvc/?username=yharpreetvirkk">
+  </a>
+</p>
