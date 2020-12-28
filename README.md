@@ -10,7 +10,7 @@
 
 🏬 Past research & work experience vis-à-vis Computer Vision, Recommendation Systems, Blockchain, & Full Stack Web Development. Previous employers include [The Career Labs](https://thecareerlabs.com/in), & [Mylan India Pharmaceuticals](https://www.mylan.in/). (open for hiring)
 
-🐣 Beside's Hacking stuff, I like meditation, music, and fitness
+🐣 Beside's Hacking stuff, meditation, music, and fitness is fun!
 
 #### Things I code with:
 
