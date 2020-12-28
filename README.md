@@ -6,7 +6,7 @@ Presently researching on **Secure & Privacy-Preserving Decentralised Federated L
 
 [Email](mailto:harpreet.virk_asp21@ashoka.edu.in)
 
-[Resume]()
+[Resume](https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)
 
 [LinkedIn](https://www.linkedin.com/in/harpreetsinghvirk/)
 
