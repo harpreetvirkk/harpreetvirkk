@@ -1,7 +1,8 @@
 ### Hello! I'm Harpreet 👋🏼
 
-Visit me at: https://harpreet-virk.web.app
+https://harpreet-virk.web.app
 
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=InternetExplorer&logoColor=white&link=https://harpreet-virk.web.app/)](https://harpreet-virk.web.app/)
 [![Resume Badge](https://img.shields.io/badge/-Résumé-FFB71B?style=flat-square&logo=docusign&logoColor=white&link=https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)](https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk_asp21@ashoka.edu.in)
 [![Linkedin Badge](https://img.shields.io/badge/-harpreetsinghvirk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreetsinghvirk/)](https://www.linkedin.com/in/harpreetsinghvirk/)
