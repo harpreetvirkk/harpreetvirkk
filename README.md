@@ -8,7 +8,7 @@
 
 🎓 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in)
 
-🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Learning, including Federated Transfer Learning, and Federated Synthetic Data Generation.**
+🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Machine Learning, Transfer Learning, and Synthetic Data Generation.**
 
 🏬 Past research & work experience vis-à-vis Computer Vision, Recommendation Systems, Blockchain, & Full Stack Web Development. Previous employers include [The Career Labs](https://thecareerlabs.com/in), & [Mylan India Pharmaceuticals](https://www.mylan.in/). (open for hiring)
 
