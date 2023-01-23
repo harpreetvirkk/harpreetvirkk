@@ -2,11 +2,11 @@
 
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=internet-explorer&logoColor=white&link=https://harpreet-virk.web.app/)](https://harpreet-virk.web.app/)
 [![Resume Badge](https://img.shields.io/badge/-Résumé-FFB71B?style=flat-square&logo=docusign&logoColor=white&link=https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)](https://drive.google.com/file/d/1naE2buKbJyCSoleST0d0TBgGy0zoLy4_/view?usp=sharing)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk_asp21@ashoka.edu.in)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harpreet.virk_asp21@ashoka.edu.in)](mailto:harpreet.virk@alumni.ashoka.edu.in)
 [![Linkedin Badge](https://img.shields.io/badge/-harpreetsinghvirk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreetsinghvirk/)](https://www.linkedin.com/in/harpreetsinghvirk/)
 [![Coffee Badge](https://img.shields.io/badge/-BuyMeACoffee-FFDD00?style=flat-square&logo=Buy-Me-A-Coffee&logoColor=white&link=https://www.buymeacoffee.com/harpreetvirk/)](https://www.buymeacoffee.com/harpreetvirk/)
 
-🎓 Studying Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in)
+🎓 Studyied Computer Science and Entrepreneurship at [Ashoka University](https://ashoka.edu.in)
 
 🔭 Currently researching **Secure & Privacy-Preserving Decentralised Federated Machine Learning, Transfer Learning, and Synthetic Data Generation.**
 
